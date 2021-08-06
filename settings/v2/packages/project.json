@@ -1,0 +1,20 @@
+{
+  "__version__": "1.0.1",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "SHIP"
+      },
+      {
+        "index": 2,
+        "name": "COMET"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 5,
+      "1": 6,
+      "2": 3
+    }
+  }
+}

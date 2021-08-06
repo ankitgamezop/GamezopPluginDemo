@@ -1,0 +1,94 @@
+{
+  "ver": "2.0.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0f15a94b-4ff4-4bd3-b908-4cff95733f03",
+  "files": [],
+  "subMetas": {
+    "43a8f": {
+      "importer": "gltf-mesh",
+      "uuid": "0f15a94b-4ff4-4bd3-b908-4cff95733f03@43a8f",
+      "displayName": "",
+      "id": "43a8f",
+      "name": "Torus001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb329": {
+      "importer": "gltf-mesh",
+      "uuid": "0f15a94b-4ff4-4bd3-b908-4cff95733f03@fb329",
+      "displayName": "",
+      "id": "fb329",
+      "name": "Sphere001.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00c4e": {
+      "importer": "gltf-mesh",
+      "uuid": "0f15a94b-4ff4-4bd3-b908-4cff95733f03@00c4e",
+      "displayName": "",
+      "id": "00c4e",
+      "name": "Torus002.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a94e": {
+      "importer": "gltf-scene",
+      "uuid": "0f15a94b-4ff4-4bd3-b908-4cff95733f03@7a94e",
+      "displayName": "",
+      "id": "7a94e",
+      "name": "donut-ring-1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "0f15a94b-4ff4-4bd3-b908-4cff95733f03@7a94e",
+    "assetFinder": {
+      "meshes": [
+        "0f15a94b-4ff4-4bd3-b908-4cff95733f03@43a8f",
+        "0f15a94b-4ff4-4bd3-b908-4cff95733f03@fb329",
+        "0f15a94b-4ff4-4bd3-b908-4cff95733f03@00c4e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0f15a94b-4ff4-4bd3-b908-4cff95733f03@7a94e"
+      ]
+    }
+  }
+}
